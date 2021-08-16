@@ -1,0 +1,19 @@
+.popup_parent_background {
+    background-color: rgb(255, 255, 255, 0.6);
+}
+
+.bg-color-gold {
+    background-color: #DAA520;
+}
+
+.bg-color-dark-red {
+    background-color: #7e7e7e;
+}
+
+.bg-color-light {
+    background-color: #e8e7e3;
+}
+
+.bg-color-lightest {
+    background-color: #f2f1ed;
+}

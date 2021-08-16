@@ -1,0 +1,29 @@
+.tile {
+    margin:5px;
+
+}
+
+.tile_small {
+    width:150px;
+    height:200px;
+}
+
+.tile_medium {
+    width:400px;
+    height:400px;
+}
+
+.tile_medium_tall {
+    width:400px;
+    height:100%;
+}
+
+.tile_large {
+    width:700px;
+    height:600px;
+}
+
+.tile_full_width {
+    width:100%;
+    height:100%;
+}

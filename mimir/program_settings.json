@@ -1,0 +1,15 @@
+{
+  "program": "Mimir",
+  "version": "d0.8",
+  "databases": {
+    "Mimir": {"connection": "localhost",
+              "port": 27017,
+              "name": "Mimir",
+              "primary": true
+    },
+    "Saerimner": {"connection": "localhost",
+                   "port": 27017,
+                   "name": "Saerimner"}
+  }
+}
+

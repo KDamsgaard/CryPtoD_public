@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+bcrypt = "~=3.2.0"
+pymongo = "~=3.11.3"
+requests = "~=2.25.1"
+websocket-client = "~=0.57.0"
+krakenex = "*"
+
+[requires]
+python_version = "3.8"

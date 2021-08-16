@@ -1,0 +1,12 @@
+{
+  "program": "Andhrimnir",
+  "version": "d0.8",
+  "databases": {
+    "Saerimner": {"connection": "localhost",
+                   "port": 27017,
+                   "name": "Saerimner",
+                   "primary": true
+    }
+  }
+}
+

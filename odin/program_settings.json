@@ -1,0 +1,28 @@
+{
+  "program": "Odin",
+  "version": "d0.8",
+  "databases": {
+    "Odin": {"connection": "localhost",
+             "port": 27017,
+             "name": "Odin",
+             "primary": true
+    },
+    "Mimir": {"connection": "localhost",
+              "port": 27017,
+              "name": "Mimir"
+    },
+    "Saerimner": {"connection": "localhost",
+                   "port": 27017,
+                   "name": "Saerimner"
+    }
+  },
+  "pair_data_fields": {
+    "attribute_names": ["trades", "analyses", "actions"],
+    "directions": ["purchases", "sales"]
+  },
+  "kraken_api_keys": {
+    "api_key": "i_am_not_a_real_key",
+    "api_secret": "i_am_not_a_real_key"
+  }
+}
+
